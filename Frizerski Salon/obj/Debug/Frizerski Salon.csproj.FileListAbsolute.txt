@@ -1,0 +1,27 @@
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\bin\Debug\Frizerski Salon.exe.config
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\bin\Debug\Frizerski Salon.exe
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\bin\Debug\Frizerski Salon.pdb
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.Form1.resources
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.exe
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.pdb
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.HomePage.resources
+C:\Users\Korisnik\source\repos\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.Muske.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\bin\Debug\Frizerski Salon.exe.config
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\bin\Debug\Frizerski Salon.exe
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\bin\Debug\Frizerski Salon.pdb
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.csprojAssemblyReference.cache
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.Form1.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.Muske.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.Properties.Resources.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.HomePage.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.csproj.GenerateResource.cache
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.csproj.CoreCompileInputs.cache
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.exe
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski Salon.pdb
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.zensko.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.placanje.resources
+D:\Anto Vukoje\NiOP\Frizerski Salon\Frizerski Salon\obj\Debug\Frizerski_Salon.muske2.resources
